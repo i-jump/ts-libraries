@@ -3,7 +3,7 @@
     <img src="img/ts.jpg" width="400">
   </a>
 </p>
-<h4 align="center">vue-viewplus <br> <br> <img src="img/npm.png"/></h4>
+<h4 align="center">ts-libraries <br> <br> <img src="img/npm.png"/></h4>
 <p align="center">一个简化ts打包开发的工具库</p>
 
 做这个工具库的目的是为了：
