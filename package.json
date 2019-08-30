@@ -18,6 +18,10 @@
     "type": "git",
     "url": "https://github.com/i-jump/ts-librarys.git"
   },
+  "bugs": {
+    "url": "https://github.com/i-jump/ts-libraries/issues/1"
+  },
+  "homepage": "https://github.com/i-jump/ts-libraries/blob/master/README.md",
   "peerDependencies": {},
   "husky": {
     "hooks": {

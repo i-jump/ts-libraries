@@ -30,7 +30,7 @@
 
 # 文档
 
-[点击查看文档](https://github.com/i-jump/ts-librarys.git)
+[点击查看 Wiki](https://github.com/i-jump/ts-libraries/wiki)
 
 # 例子
 
